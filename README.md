@@ -5,6 +5,8 @@
 Our project is an innovative solution that enhances the GeeksforGeeks practice platform by introducing features aimed at personalizing the learning experience.
 
 **Features:**
+
+
 *Personalized Notes:*
 
 Users can add personalized notes while learning, allowing them to capture insights, tips, and important concepts.
