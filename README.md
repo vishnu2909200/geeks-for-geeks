@@ -1,4 +1,4 @@
-# geeks-for-geeks
+# TITLE: GeekSync: Transformative Learning with Personalized Notes and Tech Insights
 
 **Project Description:**
 
