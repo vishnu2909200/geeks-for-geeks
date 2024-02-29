@@ -20,3 +20,8 @@ News Updates:
 
 Daily news snippets related to the world of technology and coding.
 Keeping users updated on relevant industry news for a well-rounded learning experience.
+
+
+**Conclusion:**
+
+In conclusion, GeekSync is our contribution to Igniting Innovation in EdTech. We believe our project aligns perfectly with the Hackathon's theme of limitless coding adventure and innovation. We are excited about the potential impact our project can have on millions of learners using the GeeksforGeeks platform.
